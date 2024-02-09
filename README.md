@@ -22,7 +22,7 @@ The app was built using the following technologies:
 
 
 #### Clone the repo
-`https://github.com/piyushyadav0191/farewello `
+`https://github.com/ratneshpatelr/Holiday_managment.git`
 
 Install packages
 `pnpm `
